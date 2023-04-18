@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\bin\Debug\net6.0\programacionICES.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\bin\Debug\net6.0\programacionICES.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\bin\Debug\net6.0\programacionICES.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\bin\Debug\net6.0\programacionICES.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\bin\Debug\net6.0\programacionICES.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\refint\programacionICES.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\programacionICES.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\programacionICES\programacionICES\obj\Debug\net6.0\ref\programacionICES.dll
