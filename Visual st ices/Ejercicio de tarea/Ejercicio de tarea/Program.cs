@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 // DO WHILE
-/*
+/*Para el ingreso a un sistema se necesita solicitar nombre de usuario y clave, repetir este ingreso hasta que el usuario ingrese la clave correcta: 667788
+ * 
  * Console.WriteLine("Ingresa la clave: ");
 string? clave;
 
@@ -15,6 +16,7 @@ Console.WriteLine("bien pibe! ");
 */
 
 
+//Se le solicitará ingresar un número al usuario, se repetirá el pedido hasta que ingrese un positivo.
 
 /*
  * Console.WriteLine("Usuario y calve: ");
@@ -43,7 +45,8 @@ do
 Console.WriteLine("ingresaste un positivo");
 */
 
-/*
+/* Siguiendo con el ejercicio anterior, al ingresar el positivo se mostrará el promedio de los números negativos ingresados
+
 Console.WriteLine("Inserte un numero positivo");
 string? num;
 double num_double;
@@ -64,8 +67,9 @@ double promedio = suma_negs / cant_negs;
 Console.WriteLine("El promedio de los numeros negativos ingresados es de: " + promedio);
 */
 
-/* 
- * Console.WriteLine("Ingresar numeros");
+/* Se le solicitará ingresar números al usuario, se repetirá el pedido hasta que ingrese un número mayor a 3 cifras
+ * 
+Console.WriteLine("Ingresar numeros");
 string? numero;
 int numero_entero;
 do
@@ -78,9 +82,9 @@ do
 Console.WriteLine("correcto");
 */
 
-/* Siguiendo con el ejercicio anterior, al ingresar uno mayor o menor a 3 cifras se mostrará el promedio de los ingresados
- * 
-Console.WriteLine("Ingrese un numero con mas de 3 cifras:");
+//Siguiendo con el ejercicio anterior, al ingresar uno mayor o menor a 3 cifras se mostrará el promedio de los ingresados
+
+/*Console.WriteLine("Ingrese un numero con mas de 3 cifras:");
 string? num;
 double num_double;
 double suma = 0;
@@ -98,8 +102,9 @@ do
         Console.WriteLine($"El promedio es de {promedio}:");
     }
 } while (num_double < 1000);
-Console.WriteLine("Perfecto, ingresaste un numero de 4 cifras o mas");
-*/
+Console.WriteLine("Perfecto, ingresaste un numero de 4 cifras o mas");*/
+
+
 
 /*
 Console.WriteLine("Cuantos productos compró?");
@@ -231,6 +236,8 @@ foreach (KeyValuePair<string, double> par in datos)
 Console.WriteLine("Quien mas gasto es " + nombre_del_mayor + ", con un total gastado de " + mayor_valor);
 */
 
+
+// WHILE
 /* 1 y 2-
 Console.WriteLine("Inserte los valores de sus ventas, cuando esten todos los valores ingresados, ponga 0 o un numero menor: ");
 string valor = Console.ReadLine();
@@ -265,6 +272,7 @@ while (nombre != "")
     cantidad_nombres++;
 }
 Console.WriteLine("La cantidad de nombres ingresados es: " + cantidad_nombres);
+
 */
 
 /* 4- Para calcular el total de una factura, el usuario ingresará pares de datos Costo y Total ; cuando se ingrese costo 0 finaliza el ingreso de datos; informar el total adeudado.
@@ -286,7 +294,27 @@ while (costo != 0)
     total_adeudado += total;
 }
 Console.WriteLine("El total adeudado es: " + total_adeudado);
+
 */
+/*Console.WriteLine("Porfa ingresame el costo: ");
+string costo = Console.ReadLine();
+int costoNum = int.Parse(costo);
+int sumita = 0; 
+
+
+while(costoNum >0)
+{
+    Console.WriteLine("Ahora ponee el total");
+    string total = Console.ReadLine();
+    int totalNum = int.Parse(total);
+
+    sumita = sumita + (costoNum + totalNum);
+
+    Console.WriteLine("Porfa ingreseme el costo");
+    costo = Console.ReadLine();
+    costoNum = int.Parse(costo);
+}
+Console.WriteLine("Flaco, pusiste: " + 0);*/
 
 /* 5- Para calcular el consumo total de un cliente, el usuario primero ingresará cuántos productos compró; luego el sistema solicitará que ingrese el total y costo de cada uno de esos productos consumidos; al terminar informará el total adeudado por el cliente. 
 Console.WriteLine("Cuantos productos compró?");
@@ -305,3 +333,20 @@ for (int i = 1; i <= cant_prod_int; i++)
 }
 Console.WriteLine("El total adeudado es de " + suma + ", mientras que la cantidad de productos comprados es de " + cant_prod_int);
 */
+
+
+
+
+
+//_______________________________________ REPASO 2___________________________________________
+//1- Se ingresa el código de producto (son 10 productos, codificados del 1 al 10), luego el precio y la cantidad que hay del mismo. La carga finaliza cuando se ingresa un código = 0 ; al terminar indicar el código de producto que mayor cantidad tiene.
+
+List<int> numeros = new List<int>();
+int suma = 0;
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine("Poneme el valor " + i)
+    miLista.Add(int.Parse(Console.ReadLine())); 
+}
+Console.WriteLine(miLista.Avarage());
