@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\bin\Debug\Front.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\bin\Debug\Front.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\bin\Debug\Front.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\bin\Debug\LogicaParcial.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\bin\Debug\LogicaParcial.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.Inicio.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.AltaDigitales.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\Front\obj\Debug\Front.AltaTangibles.resources

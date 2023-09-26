@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\LogicaParcial\bin\Debug\LogicaParcial.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\LogicaParcial\bin\Debug\LogicaParcial.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\LogicaParcial\obj\Debug\LogicaParcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\LogicaParcial\obj\Debug\LogicaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\LogicaParcial\obj\Debug\LogicaParcial.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Front\LogicaParcial\obj\Debug\LogicaParcial.pdb

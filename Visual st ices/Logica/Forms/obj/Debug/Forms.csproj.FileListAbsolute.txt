@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\bin\Debug\Forms.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\bin\Debug\Forms.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\bin\Debug\Forms.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\bin\Debug\Logica.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\bin\Debug\Logica.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.Inicio.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.Automovil.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Logica\Forms\obj\Debug\Forms.Camioneta.resources

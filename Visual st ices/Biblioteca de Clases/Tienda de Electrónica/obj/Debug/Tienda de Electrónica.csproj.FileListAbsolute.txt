@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Tienda de Electrónica\bin\Debug\Tienda de Electrónica.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Tienda de Electrónica\bin\Debug\Tienda de Electrónica.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Tienda de Electrónica\obj\Debug\Tienda de Electrónica.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Tienda de Electrónica\obj\Debug\Tienda de Electrónica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Tienda de Electrónica\obj\Debug\Tienda de Electrónica.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Tienda de Electrónica\obj\Debug\Tienda de Electrónica.pdb

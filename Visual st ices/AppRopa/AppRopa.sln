@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppRopa", "AppRopa\AppRopa.csproj", "{7C074D44-8303-4EB8-9C3B-BC78264E2CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazGrafica", "Interfaz grafica\InterfazGrafica.csproj", "{9F0CBEEB-F3B6-49F3-8380-7EEBE278A09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C074D44-8303-4EB8-9C3B-BC78264E2CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C074D44-8303-4EB8-9C3B-BC78264E2CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C074D44-8303-4EB8-9C3B-BC78264E2CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C074D44-8303-4EB8-9C3B-BC78264E2CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0CBEEB-F3B6-49F3-8380-7EEBE278A09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0CBEEB-F3B6-49F3-8380-7EEBE278A09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0CBEEB-F3B6-49F3-8380-7EEBE278A09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0CBEEB-F3B6-49F3-8380-7EEBE278A09A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C17310-B7DA-446B-93BA-ABF2FD33D994}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\bin\Debug\net7.0\BliotecadeClases.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\bin\Debug\net7.0\BliotecadeClases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\bin\Debug\net7.0\BliotecadeClases.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\refint\BliotecadeClases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\BliotecadeClases.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Ejercicio entregable - Entidad Financiera\BliotecadeClases\obj\Debug\net7.0\ref\BliotecadeClases.dll

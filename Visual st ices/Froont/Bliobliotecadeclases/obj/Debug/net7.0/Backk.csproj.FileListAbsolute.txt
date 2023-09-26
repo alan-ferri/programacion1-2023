@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\bin\Debug\net7.0\Backk.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\bin\Debug\net7.0\Backk.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\bin\Debug\net7.0\Backk.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\bin\Debug\net7.0\Backk.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\refint\Backk.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\Backk.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Froont\Bliobliotecadeclases\obj\Debug\net7.0\ref\Backk.dll

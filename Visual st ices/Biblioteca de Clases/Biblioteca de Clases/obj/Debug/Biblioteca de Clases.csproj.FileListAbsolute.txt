@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de Clases\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de Clases\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de Clases\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de Clases\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de Clases\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de Clases\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.pdb

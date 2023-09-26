@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\InterfazGráfica.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\InterfazGráfica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\FormsElectronica.MenuPrincipal.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\Interfaz_Gráfica.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\FormsElectronica.Smartphones.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\FormsElectronica.Televisores.resources
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\InterfazGráfica.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\InterfazGráfica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\bin\Debug\Interfaz Gráfica.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\bin\Debug\Interfaz Gráfica.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\bin\Debug\Interfaz Gráfica.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\bin\Debug\Tienda de Electrónica.dll
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\bin\Debug\Tienda de Electrónica.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\InterfazGráfica.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\Interfaz Gráfica.exe
+C:\Users\Usuario\OneDrive\Escritorio\Visual st ices\Biblioteca de clases\Interfaz Gráfica\obj\Debug\Interfaz Gráfica.pdb

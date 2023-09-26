@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca de Clases", "Biblioteca de Clases\Biblioteca de Clases.csproj", "{B1D46B50-A528-469C-AE01-03C710F784E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gestión de un Taller de Motos en Argentina", "Gestión de un Taller de Motos en Argentina", "{97011EC0-2656-48A4-A399-6E754D02C870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interfaz.csproj", "{BDC0CEDD-B551-487C-B110-0DB4566CD47C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gestión de Productos en una Tienda de Electrónica", "Gestión de Productos en una Tienda de Electrónica", "{040D4F39-A2B4-423E-8241-5C1470F2F5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendadeElectrónica", "Tienda de Electrónica\TiendadeElectrónica.csproj", "{6F66FE48-5E06-4224-AD79-6797F761C48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazGráfica", "Interfaz Gráfica\InterfazGráfica.csproj", "{A8453D05-6F4D-47EA-99D6-2B5BE60FAD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D46B50-A528-469C-AE01-03C710F784E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D46B50-A528-469C-AE01-03C710F784E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D46B50-A528-469C-AE01-03C710F784E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D46B50-A528-469C-AE01-03C710F784E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC0CEDD-B551-487C-B110-0DB4566CD47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC0CEDD-B551-487C-B110-0DB4566CD47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC0CEDD-B551-487C-B110-0DB4566CD47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC0CEDD-B551-487C-B110-0DB4566CD47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F66FE48-5E06-4224-AD79-6797F761C48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F66FE48-5E06-4224-AD79-6797F761C48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F66FE48-5E06-4224-AD79-6797F761C48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F66FE48-5E06-4224-AD79-6797F761C48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8453D05-6F4D-47EA-99D6-2B5BE60FAD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8453D05-6F4D-47EA-99D6-2B5BE60FAD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8453D05-6F4D-47EA-99D6-2B5BE60FAD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8453D05-6F4D-47EA-99D6-2B5BE60FAD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B1D46B50-A528-469C-AE01-03C710F784E8} = {97011EC0-2656-48A4-A399-6E754D02C870}
+		{BDC0CEDD-B551-487C-B110-0DB4566CD47C} = {97011EC0-2656-48A4-A399-6E754D02C870}
+		{6F66FE48-5E06-4224-AD79-6797F761C48E} = {040D4F39-A2B4-423E-8241-5C1470F2F5BE}
+		{A8453D05-6F4D-47EA-99D6-2B5BE60FAD94} = {040D4F39-A2B4-423E-8241-5C1470F2F5BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673A7DD1-8870-41DB-B85C-1F80BEEC2034}
+	EndGlobalSection
+EndGlobal
